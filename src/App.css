@@ -16,13 +16,13 @@
   font-size: 3rem;
 }
 
-.services {
+.services ,.intern{
   background-image: url('/images/2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: rgba(228, 213, 5, 0.658);
+  font-size: 200px;
 }
 
 .products {
@@ -31,7 +31,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 200px;
+  text-decoration: underline;
 }
 
 .sign-up {
