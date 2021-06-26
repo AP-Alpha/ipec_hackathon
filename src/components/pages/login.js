@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import '../../App.css';
 import '../../login_style.css'
 // import React, { useState, useEffect } from 'react';
